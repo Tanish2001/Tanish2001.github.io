@@ -1,0 +1,10 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "668SDSDP2X.com.aurionpro.dfccmobileappdev" ],
+             "paths":["*"]
+           }
+       ]
+   }
+}
