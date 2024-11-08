@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.aurionpro.dfccmobileappdev",
+               "sha256_cert_fingerprints": ["3A:9F:BD:B4:58:17:A2:5B:90:C4:8C:10:A6:3F:F8:83:FE:2D:9D:8E:01:C0:4E:13:E1:8E:69:B5:D6:F0:73:54"] }
+}]
